@@ -1,0 +1,119 @@
+#mk-img {
+  background-image: url("mk.jpg");
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid pink;
+  border-radius: 50%;
+}
+
+body {
+  text-align: center;
+}
+
+.bio-data {
+  display: flex;
+  flex-direction: column;
+}
+
+.design-bio {
+  background-color: pink;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.message-design {
+  background-color: pink;
+  padding: 5px;
+  border-radius: 10px;
+  margin-top: 50px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.happy {
+  background-image: url("gift.jpg");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.happy:hover {
+  background-image: url("gifs/birthday celebration.gif");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero {
+  background-image: url("gift.jpg");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero:hover {
+  background-image: url("gifs/hero.gif");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.day-spent {
+  background-image: url("gift.jpg");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.day-spent:hover {
+  background-image: url("gifs/day-spent.gif");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.final-words {
+  background-image: url("gift.jpg");
+  width: 400px;
+  height: 450px;
+  background-size: cover;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.final-words:hover {
+  background-image: url("gifs/thanks.gif");
+  width: 400px;
+  height: 450px;
+  background-size: contain;
+  border: 5px solid pink;
+  margin-left: auto;
+  margin-right: auto;
+}
